@@ -38,6 +38,8 @@ let empHours = 0;
  * @param {*} empSalary 
  * @returns 
  */
+ 
+ //UC3
 function getWorkingHours(empSalary){
     switch(empSalary) {
         case 0:
